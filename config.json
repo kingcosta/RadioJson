@@ -3,7 +3,7 @@
     {
       "radio_name": "Your Single Radio",
       "radio_genre": "World",
-      "radio_url": "http://deutschrap-high.rautemusik.fm/listen.pls",
+      "radio_url": "https://xdoco.com/xdoco/shoutcast",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
       "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
       "blur_radio_background": "true",
