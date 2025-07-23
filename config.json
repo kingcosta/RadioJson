@@ -1,8 +1,8 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World2",
+      "radio_name": "Your Single Radio2",
+      "radio_genre": "World3",
       "radio_url": "https://bunkertv.org:8003/listen.pls",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
       "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
@@ -26,11 +26,11 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_publisher_id": "pub-4303092814754563",
+      "admob_banner_unit_id": "ca-app-pub-4303092814754563/6730623406",
+      "admob_interstitial_unit_id": "ca-app-pub-4303092814754563/4647385543",
+      "admob_native_unit_id": "ca-app-pub-4303092814754563/9708140537",
+      "admob_app_open_ad_unit_id": "ca-app-pub-4303092814754563/9488648680",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
